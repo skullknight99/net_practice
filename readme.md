@@ -28,3 +28,10 @@ for more about TCP/IP check out this [guide]( https://www.techtarget.com/searchn
 
 ## Level1:
 
+### Concepts applied:
+
+1. **IP Address**
+
+Ip address is short for internet protocol address and it is the standard way of communication for computers. Each computer has its own unique number. When two computers communicate, they use their IP addresses to locate and recognize each other.
+
+Ip addresses are written as a set of 4 numbers (called octets) between 0 and 255 separated by a point, example: 198.162.1.12...
